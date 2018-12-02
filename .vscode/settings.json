@@ -1,0 +1,4 @@
+{
+    "terminal.integrated.shell.windows": "C:\\Program Files\\PowerShell\\6\\pwsh.exe",
+    "powershell.debugging.createTemporaryIntegratedConsole": true
+}
